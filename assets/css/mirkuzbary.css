@@ -1,0 +1,20 @@
+body {
+  padding-top: 70px;
+}
+
+#self-photo {
+    width: 240px;
+    height: 320px;
+}
+
+.navbar-default {
+    background-color: #002469;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #000450;
+}
+
+.picture-box {
+    margin: 0 20% 10% 20%;
+}
